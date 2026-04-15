@@ -3,7 +3,7 @@ name: Template-feature
 about: template personalizado para feature
 title: "[FEATURE]"
 labels: ''
-assignees: xablavskk
+assignees: ''
 
 ---
 
