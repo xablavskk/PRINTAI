@@ -1,0 +1,3 @@
+[submodule "PRINTAI-DEV"]
+	path = PRINTAI-DEV
+	url = https://github.com/xablavskk/PRINTAI-DEV.git
